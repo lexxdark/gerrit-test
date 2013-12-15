@@ -9,3 +9,4 @@ Testing gerrit with gerrit hub
 * blahxxxx
 * test topic first commit
 * something
+* something more...
